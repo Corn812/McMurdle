@@ -9,6 +9,10 @@ export const MCMASTER = [
     'innis',
     'mills',
     'hatch',
+    'pinks',
+    'willy',
+    'wally',
+    'child',
 ]
 
 
@@ -24,6 +28,9 @@ export const WORDS = [
     'innis',
     'mills',
     'hatch',
+    'pinks',
+    'willy',
+    'wally',
     'which',
     'there',
     'their',
