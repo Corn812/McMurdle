@@ -12,7 +12,6 @@ export const MCMASTER = [
     'pinks',
     'willy',
     'wally',
-    'bistro',
     'joyce',
 ]
 
@@ -32,7 +31,6 @@ export const WORDS = [
     'pinks',
     'willy',
     'wally',
-    'bistro',
     'joyce',
     'which',
     'there',
