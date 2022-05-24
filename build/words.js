@@ -13,6 +13,7 @@ export const MCMASTER = [
     'willy',
     'wally',
     'joyce',
+    'level',
 ]
 
 
@@ -32,6 +33,7 @@ export const WORDS = [
     'willy',
     'wally',
     'joyce',
+    'level'
     'which',
     'there',
     'their',
