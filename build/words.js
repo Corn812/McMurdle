@@ -33,7 +33,7 @@ export const WORDS = [
     'willy',
     'wally',
     'joyce',
-    'level'
+    'level',
     'which',
     'there',
     'their',
